@@ -1,0 +1,14 @@
+{
+        "manifest_version": 2,
+        "name": "Real Names",
+        "version": "1.0",
+        "description": "Real names of some Bulgarian politics.",
+        "content_scripts": 
+        [
+                {
+                        "matches": ["*://*/*"],
+                        "js": ["content_script.js"],
+                        "run_at": "document_end"
+                }
+        ]
+}
