@@ -8,7 +8,7 @@
 
 Как се инсталира приставката в Chrome:
 
-1. Download burekov.crx from this website and save it to your computer.
+1. Download realnames.crx from this website and save it to your computer.
 2. Click the wrench icon on the browser toolbar.
 3. Select Tools > Extensions.
 4. Locate the extension file on your computer and drag the file onto the Extensions page.
